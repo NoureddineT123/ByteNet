@@ -1,5 +1,6 @@
 {
   "version": "1.7.4",
-  "download_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest/download/ByteNet_Update.exe",
-  "notes": "Added Auto-Updater"
+  "download_url": "https://raw.githubusercontent.com/NoureddineT123/ByteNet/main/ByteNet.exe",
+  "notes": "Initial release with Auto-Updater support."
 }
+
